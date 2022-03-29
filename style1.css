@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body{
+    background: url("https://img1.goodfon.ru/wallpaper/nbig/6/a6/kosmos-art-tumannosti-ogni.jpg");
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #222e62;
+    font-family:Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 15px;
+    margin: 350px;
+    width: 50%;
+    height: 50%;
+    color:#fff;
+}
+
+.bmw{
+    margin-top: 200px;
+}
+.icon {
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -125px;
+}
+.icon_c {
+    position: absolute;
+
+}
+.gg{
+    position: absolute;
+    color: white;
+    top: 0;
+    margin: 120px;
+}
+div{
+    position: relative;
+}
+.web1{
+    position: absolute;
+    color: #fff;
+    top: 0;
+    margin: -80px;
+}
+.w{
+    position: absolute;
+    color: #fff;
+    top: 0;
+    margin: -20px;
+}
+
+ul{
+    font-size: 15px;
+    margin: 350px;
+    width: 50%;
+    height: 50%;
+    color:#fff;
+}
+.bmv{
+    margin-top: 0px;
+}
+.ccc{
+    margin-top: -370px;
+    width: 50%;
+    height: 50%;
+    color:#fff;
+    margin-left: 1100px;
+}
+.ccd{
+    margin-top: -250px;
+    width: 50%;
+    height: 50%;
+    color:#fff;
+    margin-left: 950px;
+}
+.cca {
+    margin-top: 0px;
+    width: 50%;
+    height: 50%;
+    color:#fff;
+    margin-left: 1100px;
+}
+.telegram {
+    margin-top: 100px;
+    width: 50%;
+    height: 50%;
+    color:#574848;
+    margin-left: 25px;
+}
+.sites{
+    margin-top: -85px;
+    width: 50%;
+    height: 50%;
+    color:#574848;
+    margin-left: 930px;
+}
+
+*:before
+*:after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    color:#fff;
+}
+.creators {
+    margin-top: -50px;
+    width: 50%;
+    height: 50%;
+    color:rgb(196, 189, 189);
+    margin-left: 480px;
+}

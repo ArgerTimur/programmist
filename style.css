@@ -1,0 +1,72 @@
+body{
+    background: url("http://img2.joyreactor.cc/pics/post/full/art-%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81-Tim-Barton-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-5546195.jpeg"); 
+    color: #fff;
+    font-family: sans-serif;
+
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+
+
+
+.dws{
+    position: absolute;
+
+    left: 0%;
+}
+
+.butt{
+    border: 3px solid #218294;
+    font-size: 30px;
+    color: #218294;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 250px;
+    height: 60px;
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: .5s
+    overflow auto;
+}
+.butt::before,
+.butt::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #218294;
+    top: 0;
+    left: -100%;
+    opacity: .5;
+    transition: .2s;
+    z-index: -1;
+}
+.butt::after{
+    opacity: 1;
+    transition: .3s;
+}
+.butt:hover{
+    color: #fff;
+}
+.butt:hover::before,
+.butt:hover::after{
+    left: 0;
+}
+.term {
+    color: #fff;
+    font-size: 16.5px;
+    font-family: sans-serif;
+}
